@@ -1,5 +1,7 @@
 ## Hello World I'am Rafka Julian Pratama👋👋
 
+![RafkaJulianee](img/github-header-image.png)
+
 <!--
 **RafkaJulianee/RafkaJulianee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
