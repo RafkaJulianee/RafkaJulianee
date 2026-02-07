@@ -4,8 +4,10 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RafkaJulianee)](https://git.io/streak-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafkaJulianee&show_icons=true&theme=radical" alt="RafkaJulianee's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafkaJulianee&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
 <div align="center">
     
