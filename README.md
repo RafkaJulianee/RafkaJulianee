@@ -4,10 +4,8 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafkaJulianee&show_icons=true&theme=radical" alt="RafkaJulianee's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafkaJulianee&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+
+![Gif](img/download.gif)
 
 <div align="center">
     
