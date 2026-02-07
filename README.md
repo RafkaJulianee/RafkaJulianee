@@ -5,7 +5,10 @@
 
 
 
-![Gif](img/download.gif)
+
+<p align="center">
+  <img src="img/download.gif" width="200" style="border-radius: 15px;">
+</p>
 
 <div align="center">
     
