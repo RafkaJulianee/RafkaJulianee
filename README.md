@@ -5,7 +5,7 @@
 
 
 
-<img src="img/benner.png" alt="Deskripsi" width="50%" style="border-radius: 15px;"   />
+
 
 
 
