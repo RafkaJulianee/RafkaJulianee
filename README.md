@@ -13,7 +13,7 @@
 
   <h3>Skills 🚀</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,pandas" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,tailwind" />
   </a>
 </div>
 
