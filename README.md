@@ -11,7 +11,7 @@
 
   ![Visitors](https://komarev.com/ghpvc/?username=RafkaJulianee&label=Profile+views&color=0e75b6&style=flat)  
 
-  <h3>Skills 🚀</h3>
+  <h3>TECH STACK🚀</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,tailwind" />
   </a>
