@@ -33,7 +33,7 @@
 
 
 
-<div align="center">
+<div  align="center">
     
   ![snake gif](https://github.com/RafkaJulianee/RafkaJulianee/blob/output/github-snake-dark.svg)
 </div>
