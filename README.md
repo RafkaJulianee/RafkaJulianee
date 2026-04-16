@@ -1,4 +1,4 @@
-h
+
 
  
 
@@ -13,7 +13,7 @@ h
 
   ![Visitors](https://komarev.com/ghpvc/?username=RafkaJulianee&label=Profile+views&color=0e75b6&style=flat)  
 
-  <h3>TECH STACK🚀</h3>
+  <h2>TECH STACK🚀</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,next,tailwind," />
   </a>
