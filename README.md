@@ -15,7 +15,7 @@
 
   <h2>TECH STACK🚀</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,next,tailwind," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel," />
   </a>
 </div>
 
