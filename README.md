@@ -2,11 +2,6 @@
 
  
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Rafka+Julian" alt="Typing SVG" />
-
-
-
 
 
 
@@ -15,7 +10,7 @@
 
   <h2>TECH STACK🚀</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel," />
+    <img src="https://skillicons.dev/icons?i=gemini," />
   </a>
 </div>
 
@@ -35,9 +30,5 @@
 
 
 
-<div  align="center">
-    
-  ![snake gif](https://github.com/RafkaJulianee/RafkaJulianee/blob/output/github-snake-dark.svg)
-</div>
 
 
