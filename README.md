@@ -19,3 +19,5 @@
   ![snake gif](https://github.com/RafkaJulianee/RafkaJulianee/blob/output/github-snake-dark.svg)
 </div>
 
+[![RafkaJulianee's GitHub stats](https://gitshine.com/card/RafkaJulianee?layout=sky)](https://gitshine.com/stats/RafkaJulianee)
+
